@@ -2,7 +2,7 @@
 
 ### 基础
 
-- [数学](https://github.com/JiajiaLiang2001/ReadBooks/edit/master/README.md)
+- [数学](https://github.com/JiajiaLiang2001/ReadBooks/blob/master/README.md)
   - [高等数学](https://github.com/JiajiaLiang2001/ReadBooks/blob/master/%E3%80%90%E5%9F%BA%E7%A1%80%E3%80%91-%E6%95%B0%E5%AD%A6/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6/README.md)
   - [线性代数](https://github.com/JiajiaLiang2001/ReadBooks/blob/master/%E3%80%90%E5%9F%BA%E7%A1%80%E3%80%91-%E6%95%B0%E5%AD%A6/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/README.md)
   - [概率论与数理统计](https://github.com/JiajiaLiang2001/ReadBooks/blob/master/%E3%80%90%E5%9F%BA%E7%A1%80%E3%80%91-%E6%95%B0%E5%AD%A6/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/README.md)
